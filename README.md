@@ -69,10 +69,7 @@ I enjoy building **end-to-end pipelines** — from raw data and simulation to de
 ## 📈 Current Focus
 
 - Graph-based representations for histopathology  
-- Hardware-aware ML and approximate computing  
-- Decision-focused optimization pipelines  
-- ML-driven EM/RF design acceleration  
-
+- 3D Pose Optimization
 ---
 
 ## 🤝 Let’s Connect
